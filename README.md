@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello, I am Christopher! 👋
 
-<!--
-**arock-404/arock-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated **Cybersecurity enthusiast** with a focus on ethical hacking and penetration testing
 
-Here are some ideas to get you started:
+----
+## About Me
+- 🎓 Currently preparing for OSCP to sharpen my penetration testing skills.
+- 💡 Continuously enhancing my skills and knowledge in the cybersecurity domain.
+- 🤝 Open to collaborating on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Connect With Me
+- ✉️ Email: christopherarock48@gmail.com
+- 🔗 LinkedIn: [christopher-arock](https://www.linkedin.com/in/christopher-arock/)
+- 🔒 Tryhackme: [arock404](https://tryhackme.com/r/p/arock404)
+
+
+🎯 *"Security is not a product, but a process."* – Bruce Schneier
