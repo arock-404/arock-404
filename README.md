@@ -1,4 +1,4 @@
-## Hello, I am Christopher! 👋
+## Hello, I am Christopher! 
 
 I'm a dedicated **Cybersecurity enthusiast** with a focus on ethical hacking and penetration testing
 
@@ -10,8 +10,8 @@ I'm a dedicated **Cybersecurity enthusiast** with a focus on ethical hacking and
 
 
 ## Connect With Me
-- 🔗 LinkedIn: [christopher-arock](https://www.linkedin.com/in/christopher-arock/)
-- 🔒 Tryhackme: [arock404](https://tryhackme.com/r/p/arock404)
+-  LinkedIn: [christopher-arock](https://www.linkedin.com/in/christopher-arock/)
+-  Tryhackme: [arock404](https://tryhackme.com/r/p/arock404)
 
 
-🎯 *"Security is not a product, but a process."* – Bruce Schneier
+ *"Security is not a product, but a process."* – Bruce Schneier
